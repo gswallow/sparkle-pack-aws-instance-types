@@ -63,5 +63,5 @@ SfnRegistry.register(:ec2_instance_types) do
     "d2.2xlarge",
     "d2.4xlarge",
     "d2.8xlarge"
-  ]
+  ].sort
 end

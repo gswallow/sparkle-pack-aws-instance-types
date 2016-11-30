@@ -10,5 +10,5 @@ SfnRegistry.register(:dms_instance_types) do
     "dms.c4.xlarge",
     "dms.c4.2xlarge",
     "dms.c4.4xlarge"
-  ]
+  ].sort
 end

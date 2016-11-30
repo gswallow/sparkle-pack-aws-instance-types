@@ -21,5 +21,5 @@ SfnRegistry.register(:elasticsearch_instance_types) do
     "r3.8xlarge.elasticsearch",
     "i2.xlarge.elasticsearch",
     "i2.2xlarge.elasticsearch"
-  ]
+  ].sort
 end

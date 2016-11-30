@@ -28,5 +28,5 @@ SfnRegistry.register(:rds_instance_types) do
     "db.t2.small",
     "db.t2.medium",
     "db.t2.large"
-  ]
+  ].sort
 end

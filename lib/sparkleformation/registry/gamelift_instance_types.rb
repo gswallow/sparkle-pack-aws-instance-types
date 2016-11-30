@@ -30,5 +30,5 @@ SfnRegistry.register(:gamelift_instance_types) do
     "m4.2xlarge",
     "m4.4xlarge",
     "m4.10xlarge"
-  ]
+  ].sort
 end
