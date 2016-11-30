@@ -8,5 +8,4 @@ Gem::Specification.new do |s|
   s.email = 'gswallow@indigobio.com'
   s.homepage = 'https://github.com/gswallow/sparkle-pack-aws-instance-types'
   s.files = Dir[ 'lib/sparkleformation/registry/*' ] + %w(sparkle-pack-aws-instance-types.gemspec lib/sparkle-pack-aws-instance-types.rb)
-  s.add_runtime_dependency 'aws-sdk-core', '~> 2'
 end
