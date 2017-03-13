@@ -8,6 +8,8 @@ SfnRegistry.register(:ec2_instance_types) do
     "t2.small",
     "t2.medium",
     "t2.large",
+    "t2.xlarge",
+    "t2.2xlarge",
     "m1.small",
     "m1.medium",
     "m1.large",
